@@ -14,7 +14,7 @@
 	padding-top: 20%;
 }
 .header .header_v1 figure figcaption h2 {
-	color: #FFF;
+	/* color: #FFF; */
 	font-weight: 700;
 	font-size: 53px;
 	line-height: 54px;
@@ -349,7 +349,7 @@
 }
 .header .angle-down {
 	position: absolute;
-	background-image: url(./assets/img/down_arrow.png);
+	background-image: url(../assets/img/down_arrow.png);
 	background-repeat: no-repeat;
 	background-position: 0 0;
 	width: 13px;
@@ -365,3 +365,27 @@
 	-ms-animation: bounce 2000ms infinite;
 	animation: bounce 2000ms infinite;
 }
+
+:root {
+	--red: red;
+	--yellow: yellow;
+	--cian: skyblue;
+	--purple: #882575;
+	--orange: orangered;
+}
+
+.red {
+	color: var(--red);
+}
+.yellow {
+	color: var(--yellow);
+}
+.cian {
+	color: var(--cian);
+}
+.purple {
+	color: var(--purple)
+}
+.orange {
+	color: var(--orange);
+} 
