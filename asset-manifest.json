@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.3cbbf77e.css",
+    "main.js": "/react/static/js/main.5be5807d.js",
+    "static/js/787.fa0cd347.chunk.js": "/react/static/js/787.fa0cd347.chunk.js",
+    "static/media/concept-03.jpg": "/react/static/media/concept-03.52367a9f25d8986dcf1a.jpg",
+    "static/media/logo-white.svg": "/react/static/media/logo-white.9b36edb085cc07407acdd43aea406d18.svg",
+    "static/media/logo.svg": "/react/static/media/logo.367551d47f2a4e22dd63f190aab7369b.svg",
+    "static/media/devider.jpg": "/react/static/media/devider.11a29ff1491dac9d93d7.jpg",
+    "static/media/patron-footer.svg": "/react/static/media/patron-footer.3851c5d8054bc69c4eb5.svg",
+    "index.html": "/react/index.html",
+    "main.3cbbf77e.css.map": "/react/static/css/main.3cbbf77e.css.map",
+    "main.5be5807d.js.map": "/react/static/js/main.5be5807d.js.map",
+    "787.fa0cd347.chunk.js.map": "/react/static/js/787.fa0cd347.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cbbf77e.css",
+    "static/js/main.5be5807d.js"
+  ]
+}
